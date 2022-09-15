@@ -43,10 +43,10 @@
   <a href="https://github.com/cauliyang/pybox"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cauliyang&repo=pybox&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="pybox"></a>
   <a href="https://github.com/cauliyang/Cpp-Dev-Docker"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cauliyang&repo=Cpp-Dev-Docker&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="cpp-dev-docker"></a>
   
-<a href="https://github.com/ylab-hi/yanglab-guide"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=ylab-hi&repo=yanglab-guide&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
 <a href="https://github.com/ylab-hi/BINARY"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=ylab-hi&repo=BINARY&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+<a href="https://github.com/cauliyang/boss"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=cauliyang&repo=boss&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
   
-<a href="https://github.com/cauliyang/rust-bib"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=cauliyang&repo=rust-bib&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+
   
 </p>
 
