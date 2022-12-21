@@ -31,8 +31,8 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/cauliyang"/></a>
   <a href="https://github.com/cauliyang?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/cauliyang?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://yangyangli.top/en/">
-    <img alt="views" title="GitHub profile views" src="https://img.shields.io/badge/Blog-10-green?style=for-the-badge&logo=Hugo"/></a>
+  <a href="https://yangyangli.top/">
+    <img alt="views" title="GitHub profile views" src="https://img.shields.io/badge/Blog-16-green?style=for-the-badge&logo=Hugo"/></a>
 </p>
 
 ## 📘 My top open source projects
