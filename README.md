@@ -34,7 +34,7 @@
   <a href="https://yangyangli.top/">
     <img alt="views" title="GitHub profile views" src="https://img.shields.io/badge/Blog-16-green?style=for-the-badge&logo=Hugo"/></a>
   
-   <a href="https://yangyangli.top/">
+   <a href="https://github.com/cauliyang">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=cauliyang&style=for-the-badge"/></a>
 
 </p>
