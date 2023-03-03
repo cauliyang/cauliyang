@@ -33,6 +33,10 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/cauliyang?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://yangyangli.top/">
     <img alt="views" title="GitHub profile views" src="https://img.shields.io/badge/Blog-16-green?style=for-the-badge&logo=Hugo"/></a>
+  
+   <a href="https://yangyangli.top/">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=cauliyang&style=for-the-badge"/></a>
+
 </p>
 
 ## 📘 My top open source projects
