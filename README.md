@@ -164,10 +164,6 @@
 </details>
 
 
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
 
 <!--START_SECTION:activity-->
 
@@ -175,8 +171,7 @@
 
 <!--END_SECTION:activity-->
 
-  
-</details>
+
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Yangyang Li's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=cauliyang&theme=tokyo-night" /></a>
