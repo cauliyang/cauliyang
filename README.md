@@ -162,4 +162,4 @@
 </details>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Yangyang Li's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=cauliyang&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Yangyang Li's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=cauliyang&theme=tokyo-night" /></a>
