@@ -57,20 +57,14 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
+  
+   <a href="https://github.com/ylab-hi/pxblat"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=ylab-hi&repo=pxblat&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
    <a href="https://github.com/cauliyang/coitrees"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=cauliyang&repo=coitrees&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-<a href="https://github.com/cauliyang/ChatResearch"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=cauliyang&repo=ChatResearch&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-  
+  <a href="https://github.com/cauliyang/ChatResearch"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=cauliyang&repo=ChatResearch&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+
   <a href="https://github.com/cauliyang/pybox"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cauliyang&repo=pybox&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="pybox"></a>
-  <a href="https://github.com/cauliyang/Complete-Striped-Smith-Waterman-Library"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cauliyang&repo=Complete-Striped-Smith-Waterman-Library&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="cpp-dev-docker"></a>
-
-
-  
-<a href="https://github.com/ylab-hi/BINARY"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=ylab-hi&repo=BINARY&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-<a href="https://github.com/cauliyang/boss"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=cauliyang&repo=boss&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
- 
-
-
-  
+  <a href="https://github.com/ylab-hi/BINARY"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=ylab-hi&repo=BINARY&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+  <a href="https://github.com/cauliyang/boss"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=cauliyang&repo=boss&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 </p>
 
 <p align="left">
