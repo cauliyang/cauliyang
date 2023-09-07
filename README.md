@@ -66,6 +66,8 @@
   
   <a href="https://github.com/ylab-hi/BINARY"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=ylab-hi&repo=BINARY&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
   <a href="https://github.com/cauliyang/boss"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=cauliyang&repo=boss&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+
+  <a href="https://github.com/cauliyang/aurora"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=cauliyang&repo=aurora&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 </p>
 
 <p align="left">
