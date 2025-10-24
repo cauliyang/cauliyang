@@ -59,6 +59,8 @@
 <p align="left">
   
    <a href="https://github.com/ylab-hi/DeepChopper"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=ylab-hi&repo=DeepChopper&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+   <a href="https://github.com/ylab-hi/ChimeraLM"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=ylab-hi&repo=ChimeraLM&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+   
    <a href="https://github.com/ylab-hi/pxblat"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=ylab-hi&repo=pxblat&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
   <a href="https://github.com/cauliyang/DeepBioP"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=cauliyang&repo=DeepBioP&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
   
